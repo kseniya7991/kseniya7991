@@ -28,7 +28,7 @@ Hi there 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 #### Свяжитесь со мной тут:
-<a href="https://www.linkedin.com/in/kseniya-stoychikova-907594201/">
+<a href="https://www.linkedin.com/in/kseniya-s-907594201/">
   <img align="left" alt="Kseniya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
