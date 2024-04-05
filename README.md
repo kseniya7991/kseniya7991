@@ -14,13 +14,14 @@
 
 ## :mailbox: How to reach me
 <a href="https://www.linkedin.com/in/kseniya-s-907594201/" target="_blank">
-<img src="linkedin.webp" with="30" height="30" alt="linkedin" style="margin-right: 20px;" />
-</a>
-<a href="mailto:kseniya7991@gmail.com" target="_blank">
-<img src="email.png" with="30" height="30" alt="email" />
+<img src="linkedin.png" with="30" height="30" alt="linkedin" style="margin-right: 20px;" />
 </a>
 <a href="https://t.me/shrekonly" target="_blank">
 <img src="telegram.webp" with="30" height="30" alt="telegram" />
+</a>
+<br/>
+:email: <a href="mailto:kseniya7991@gmail.com" target="_blank">
+kseniya7991@gmail.com
 </a>
 
 ## :computer: Stats:  
