@@ -1,13 +1,10 @@
 # Hey, I'm Kseniya👋
 
-:sparkles: I'm a **Creative Frontend Developer**. Love blending aesthetics, functionality, and flexibility to bring ideas to life.
-<br />
-![](https://visitor-badge.glitch.me/badge?page_id=kseniya7991.75158165)
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=10000&color=2C89F7&repeat=false&random=false&width=500&lines=I'm+Creative+Frontend+Developer)](https://git.io/typing-svg)
 
+:sparkles: Love blending aesthetics, functionality, and flexibility to bring ideas to life. I create 3D-ideas by using Three.js and Blender. Bring my creativity and technical skills to every project. 
 
-### Technologies:  
-
+## ⚙ Technologies:  
 <code><img height="30" src="threedotjs-color.svg"></code>
 <code><img height="30" src="blender.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -16,7 +13,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 
-### Статистика:  
+## :computer: Stats:  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kseniya7991&show_icons=true&theme=cobalt" alt="Kseniya github stats"/>
@@ -26,9 +23,3 @@
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### 🙋‍♀️Fun fact: люблю жизненные мемы про разработчиков
-<a href="https://github.com/kseniya7991">
-<img align="center" src="7M5g.gif"/>
-</a>
