@@ -12,18 +12,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
-## :mailbox: How to reach me
-<a href="https://www.linkedin.com/in/kseniya-s-907594201/" target="_blank">
-<img src="linkedin.png" with="30" height="30" alt="linkedin" style="margin-right: 20px;" />
-</a>
-<a href="https://t.me/shrekonly" target="_blank">
-<img src="telegram.webp" with="30" height="30" alt="telegram" />
-</a>
-<br/>
-:email: <a href="mailto:kseniya7991@gmail.com" target="_blank">
-kseniya7991@gmail.com
-</a>
-
 ## :computer: Stats:  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,6 +22,18 @@ kseniya7991@gmail.com
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+## :mailbox: How to reach me
+<a href="https://www.linkedin.com/in/kseniya-s-907594201/" target="_blank">
+<img src="linkedin.png" with="30" height="30" alt="linkedin" />
+</a>
+<a href="https://t.me/shrekonly" target="_blank">
+<img src="telegram.webp" with="30" height="30" alt="telegram" />
+</a>
+<br/><br/>
+:email: <a href="mailto:kseniya7991@gmail.com" target="_blank">
+kseniya7991@gmail.com
+</a>
 
 ## :zap: Some facts about me:  
 - In 2023, I ran 100 kilometers, and it took me around 16 hours.
