@@ -1,8 +1,6 @@
 # Hey, I'm Kseniya👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=10000&color=2C89F7&repeat=false&random=false&width=500&lines=I'm+a+Creative+Frontend+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=2000&color=24DC18&random=false&width=500&height=30&lines=Now+I'm+open+to+work)](https://git.io/typing-svg)
-
 :sparkles: Love blending aesthetics, functionality, and flexibility to bring ideas to life. I create 3D-ideas by using **Three.js** and **Blender**. Bring my creativity and technical skills to every project. 
 
 ## ⚙ Technologies:  
