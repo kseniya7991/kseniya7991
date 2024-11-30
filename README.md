@@ -35,7 +35,6 @@ linkedin:
 www.linkedin.com/in/kavasst/
 <!--<img src="linkedin.png" with="30" height="30" alt="linkedin" />-->
 </a>
-<br/>
 telegram: 
 <a href="https://t.me/kavasst" target="_blank" >
 t.me/kavasst
