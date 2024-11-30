@@ -30,11 +30,16 @@
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## :mailbox: How to reach me
-<a href="https://www.linkedin.com/in/kavasst/" target="_blank" style="display:flex; align-items:center;justify-content:center;">
-<img src="linkedin.png" with="30" height="30" alt="linkedin" />
+linkedin: 
+<a href="https://www.linkedin.com/in/kavasst/" target="_blank">
+www.linkedin.com/in/kavasst/
+<!--<img src="linkedin.png" with="30" height="30" alt="linkedin" />-->
 </a>
+<br/>
+telegram: 
 <a href="https://t.me/kavasst" target="_blank" >
-<img src="telegram.webp" with="30" height="30" alt="telegram" />
+t.me/kavasst
+<!--<img src="telegram.webp" with="30" height="30" alt="telegram" />-->
 </a>
 <br/><br/>
 :email: <a href="mailto:kseniya7991@gmail.com" target="_blank">
