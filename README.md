@@ -4,28 +4,24 @@
 :sparkles: Love blending aesthetics, functionality, and flexibility to bring ideas to life. I create 3D-ideas by using **Three.js** and **Blender**. Bring my creativity and technical skills to every project. 
 
 ## ⚙ Technologies:  
-<code><img height="30" src="threedotjs-color.svg"></code>
-<code><img height="30" src="opengl.png"></code>
-<code><img height="30" src="blender.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,threejs,vite,tailwind,blender,git,html,scss)](https://skillicons.dev)
+<div style="display: incline-block;">
+  <img height="48" src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="OpenGL" title="OpenGL" />
+  &nbsp;&nbsp;
+  <img height="48" src="https://docs.pmnd.rs/_next/static/media/r3f-icon.477a5c66.svg" alt="React Three Fiber" title="React Three Fiber" style="border-radius: 8px;" />
+</p>
 
 ##  :books: Learning
-<code><img height="30" src="threedotjs-color.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- -->
+[![My Skills](https://skillicons.dev/icons?i=ts,react,threejs)](https://skillicons.dev)
 
-## :computer: Stats:  
+<!-- ## :computer: Stats:  
 
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kseniya7991&show_icons=true&theme=cobalt" alt="Kseniya github stats"/>
-</a> -->
+</a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniya7991&layout=compact&theme=cobalt" />
-</a>
+</a> -->
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
